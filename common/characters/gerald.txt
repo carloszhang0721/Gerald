@@ -1,0 +1,22 @@
+characters = {
+
+    AST_gerald_chen = {
+        name = AST_gerald_chen
+        portraits = {
+            army = {
+                large = "GFX_portrait_ast_gerald_chen"
+            }
+        }
+        corps_commander = {
+            traits = { media_personality armor_officer war_hero winter_specialist }
+            skill = 5
+            attack_skill = 5
+            defense_skill = 5
+            planning_skill = 4
+            logistics_skill = 5
+            legacy_id = 943
+            visible = { has_stability > 0.3 }
+        }
+
+    }
+}

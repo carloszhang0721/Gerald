@@ -1,0 +1,6 @@
+spriteTypes = {
+  spriteType = {
+    name = "GFX_portrait_ast_gerald_chen"
+    texturefile = "gfx/leaders/AST/portrait_ast_gerald_chen.png"
+  }
+}
